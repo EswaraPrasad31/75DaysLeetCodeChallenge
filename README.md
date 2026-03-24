@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0289-game-of-life) |
 | [0347-top-k-frequent-elements](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Divide and Conquer
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0289-game-of-life) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
