@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Array
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
+| [0089-gray-code](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 ## Union-Find
 |  |
