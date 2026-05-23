@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0089-gray-code](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0319-bulb-switcher](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0319-bulb-switcher) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -319,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
