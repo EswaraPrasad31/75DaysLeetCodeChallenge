@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [3895-count-digit-appearances](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/3895-count-digit-appearances) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0319-bulb-switcher](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0319-bulb-switcher) |
+| [3895-count-digit-appearances](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/3895-count-digit-appearances) |
 ## Monotonic Stack
 |  |
 | ------- |
