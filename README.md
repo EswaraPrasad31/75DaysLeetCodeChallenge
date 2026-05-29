@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0319-bulb-switcher](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0319-bulb-switcher) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3895-count-digit-appearances](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/3895-count-digit-appearances) |
 ## Monotonic Stack
 |  |
@@ -341,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/0164-maximum-gap) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
