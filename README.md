@@ -347,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/EswaraPrasad31/75DaysLeetCodeChallenge/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
